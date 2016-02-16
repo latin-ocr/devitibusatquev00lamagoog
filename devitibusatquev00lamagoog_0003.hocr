@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./devitibusatquev00lamagoog_0003.png"; bbox 0 0 2975 5159; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1196 1995 2283 2583">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1196 1995 2283 2583">
+     <span class='ocr_line' id='line_1_1' title="bbox 1328 1995 2173 2115; baseline 0.024 -20"><span class='ocrx_word' id='word_1_1' title='bbox 1328 1995 1585 2099; x_wconf 77' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_2' title='bbox 1637 2007 2173 2115; x_wconf 76' lang='lat' dir='ltr'>LIBRARY</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1196 2159 2283 2415; baseline 0.028 -28"><span class='ocrx_word' id='word_1_3' title='bbox 1196 2291 1452 2391; x_wconf 78' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_4' title='bbox 1509 2159 2283 2415; x_wconf 32' lang='lat' dir='ltr'>UNQEERSITY</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1220 2463 2249 2583; baseline 0.029 -27"><span class='ocrx_word' id='word_1_5' title='bbox 1220 2463 1388 2559; x_wconf 84' lang='lat' dir='ltr'>OF</span> <span class='ocrx_word' id='word_1_6' title='bbox 1452 2467 2249 2583; x_wconf 73' lang='lat' dir='ltr'>CALIFORNLA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1124 2787 2317 3091">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1124 2787 2317 3091">
+     <span class='ocr_line' id='line_1_4' title="bbox 1440 2787 2013 2855; baseline 0.028 -15"><span class='ocrx_word' id='word_1_7' title='bbox 1440 2787 1881 2851; x_wconf 73' lang='lat' dir='ltr'>PRESENTED</span> <span class='ocrx_word' id='word_1_8' title='bbox 1913 2803 2013 2855; x_wconf 74' lang='grc' dir='ltr'>ΒΥ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 1124 2895 2317 2979; baseline 0.028 -33"><span class='ocrx_word' id='word_1_9' title='bbox 1124 2895 1340 2951; x_wconf 67' lang='lat' dir='ltr'>PRUF.</span> <span class='ocrx_word' id='word_1_10' title='bbox 1360 2903 1705 2963; x_wconf 66' lang='lat' dir='ltr'>CHARLES</span> <span class='ocrx_word' id='word_1_11' title='bbox 1725 2911 1797 2967; x_wconf 68' lang='lat' dir='ltr'>A.</span> <span class='ocrx_word' id='word_1_12' title='bbox 1817 2915 2125 2975; x_wconf 69' lang='lat' dir='ltr'>KOFOED</span> <span class='ocrx_word' id='word_1_13' title='bbox 2145 2919 2317 2979; x_wconf 70' lang='lat' dir='ltr'>ANB</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 1192 3015 2245 3091; baseline 0.026 -25"><span class='ocrx_word' id='word_1_14' title='bbox 1192 3015 1360 3071; x_wconf 71' lang='lat' dir='ltr'>MRS.</span> <span class='ocrx_word' id='word_1_15' title='bbox 1380 3023 1797 3083; x_wconf 76' lang='lat' dir='ltr'>PRUDENCE</span> <span class='ocrx_word' id='word_1_16' title='bbox 1821 3035 1913 3087; x_wconf 73' lang='lat' dir='ltr'>W.</span> <span class='ocrx_word' id='word_1_17' title='bbox 1937 3035 2245 3091; x_wconf 64' lang='lat' dir='ltr'>KGFGID</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 2975 5159">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 2975 5159">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 2975 5159; baseline 0 0"><span class='ocrx_word' id='word_1_18' title='bbox 0 0 2975 5159; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
